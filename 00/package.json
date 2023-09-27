@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindnech/jestTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lindnech/jestTests/issues"
+  },
+  "homepage": "https://github.com/lindnech/jestTests#readme",
+  "description": ""
+}
