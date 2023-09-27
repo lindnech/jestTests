@@ -12,5 +12,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindnech/jestTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lindnech/jestTests/issues"
+  },
+  "homepage": "https://github.com/lindnech/jestTests#readme",
   "description": ""
 }
